@@ -1,4 +1,4 @@
-## Hey! Eu sou o João Pedro👋
+## Hey! Eu sou o João Pedro 👋
 
 - 👨🏻‍💻 Me aprofundando em JavaScript.
 - 🕺🏻 Gosto de dançar nas horas vagas.
