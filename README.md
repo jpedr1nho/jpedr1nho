@@ -1,6 +1,5 @@
 ## Hey! Eu sou o João Pedro👋
 
-- 📒 Estou estudando densenvolvimento web pelo instituto PROA.
 - 👨🏻‍💻 Me aprofundando em JavaScript.
 - 🕺🏻 Gosto de dançar nas horas vagas.
 - 😄 Pronomes: ele/dele.
